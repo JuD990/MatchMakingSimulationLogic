@@ -1,0 +1,14 @@
+/home/jud/Csharp/MatchMakingSimulationLogic/obj/Debug/net10.0/MatchMakingSimulationLogic.GeneratedMSBuildEditorConfig.editorconfig
+/home/jud/Csharp/MatchMakingSimulationLogic/obj/Debug/net10.0/MatchMakingSimulationLogic.AssemblyInfoInputs.cache
+/home/jud/Csharp/MatchMakingSimulationLogic/obj/Debug/net10.0/MatchMakingSimulationLogic.AssemblyInfo.cs
+/home/jud/Csharp/MatchMakingSimulationLogic/obj/Debug/net10.0/MatchMakingSimulationLogic.csproj.CoreCompileInputs.cache
+/home/jud/Csharp/MatchMakingSimulationLogic/bin/Debug/net10.0/MatchMakingSimulationLogic
+/home/jud/Csharp/MatchMakingSimulationLogic/bin/Debug/net10.0/MatchMakingSimulationLogic.deps.json
+/home/jud/Csharp/MatchMakingSimulationLogic/bin/Debug/net10.0/MatchMakingSimulationLogic.runtimeconfig.json
+/home/jud/Csharp/MatchMakingSimulationLogic/bin/Debug/net10.0/MatchMakingSimulationLogic.dll
+/home/jud/Csharp/MatchMakingSimulationLogic/bin/Debug/net10.0/MatchMakingSimulationLogic.pdb
+/home/jud/Csharp/MatchMakingSimulationLogic/obj/Debug/net10.0/MatchMakingSimulationLogic.dll
+/home/jud/Csharp/MatchMakingSimulationLogic/obj/Debug/net10.0/refint/MatchMakingSimulationLogic.dll
+/home/jud/Csharp/MatchMakingSimulationLogic/obj/Debug/net10.0/MatchMakingSimulationLogic.pdb
+/home/jud/Csharp/MatchMakingSimulationLogic/obj/Debug/net10.0/MatchMakingSimulationLogic.genruntimeconfig.cache
+/home/jud/Csharp/MatchMakingSimulationLogic/obj/Debug/net10.0/ref/MatchMakingSimulationLogic.dll
