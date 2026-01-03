@@ -33,3 +33,7 @@ The goal of this project is to demonstrate backend engineering principles such a
 - Runtime: .NET
 - Paradigm: Object-Oriented Programming
 - Tools: LINQ, System.Collections.Generic
+
+## Sample Input
+
+<img width="736" height="984" alt="Screenshot 2026-01-03 211700" src="https://github.com/user-attachments/assets/de9eec21-1e20-48ca-be23-440c560101ab" />
