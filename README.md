@@ -33,6 +33,7 @@ The goal of this project is to demonstrate backend engineering principles such a
 - Runtime: .NET
 - Paradigm: Object-Oriented Programming
 - Tools: LINQ, System.Collections.Generic
+- Linux: Windows WSL2
 
 ## Sample Output
 
